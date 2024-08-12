@@ -9,8 +9,7 @@
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/azeemsln/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"> LinkedIn</a></code>
   <code><a href="https://www.geeksforgeeks.org/user/azeem2498/" title="GFG Profile"><img  height="25" width="25"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" > GFG</a></code>
-  <code><a href="https://www.leetcode.com/u/azeemsln" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/mdraziahmed6" height="25" width="25" />Lgtigeetcode</a>
-</code>
+  <code><a href="https://www.leetcode.com/u/azeemsln" target="Leetcode Pofile"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/azeemsln" height="25" width="25" />Leetcode</a></code>
 </h5>
 <br>
 <p align="center">
