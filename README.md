@@ -27,7 +27,7 @@
   
   - 🔭 *I’m currently working on*  React to build scalable and robust web applications.<br> 
 
-- 🌱 *I’m currently learning* advanced  front features end framework.
+- 🌱 *I’m currently learning* advanced  front end features and framework.
 
 - 👯 *I’m looking to collaborate on* MERN stack projects, particularly in building RESTful APIs,  or any full-stack solutions.
 
