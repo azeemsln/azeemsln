@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=azeemsln">
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://github.com/azeemsln">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Mohd+Azeem....;Welcome+to+my+Git+Hub+Profile!&center=true&size=20">
   </a>
 </h1>
